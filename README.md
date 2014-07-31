@@ -3,7 +3,7 @@
 GFF files that are the output of taking RNA-seq data through a Trinity/Augustus pipeline.
 
 #Crude method overview
-Libraries were made from adult virgin males and females.  Carcass and germline tissue libraries were prepped and sequence separately.
+Libraries were made from tissues of adult virgin males and females collected 2-5 days post eclosion.  Carcass and germline tissue libraries were prepped and sequence separately and sequenced in 4-plex using Illumina barcodes.  Further methods are available in Rogers et al. 2014.
 
 #Pipeline
 
@@ -13,4 +13,4 @@ To build the GFF files, FASTQ files from all sexes, tissues, and replicates were
 
 #Citation
 
-Please cite "Rebekah Rogers and Kevin Thornton, personal communication" if you find these data useful.
+Users should cite Rogers et al. 2014 "Sex-biased expression in the Drosophila melanogaster group" available as a preprint in ArXiv.  
